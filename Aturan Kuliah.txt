@@ -4,6 +4,7 @@ Aturan MK Modern Prediction and Machine Learning:
     + Mahasiswa yang tidak menjawab ketika dipanggil akan dikeluarkan dari kelas dan akan dianggap tidak mengikuti perkuliahan
     + Tidak mentolelir plagiasi dalam bentuk apapun
     + Mahasiswa yang terlambat lebih dari 10 menit ketika kelas sudah dimulai tidak akan diijinkan masuk dalam kelas Zoom
-    + Ada tugas besar pengganti UTS
+    + Ada tugas besar 
+    + Ada UTS sesuai jadwal
     
   + Perkuliahan oleh dosen Athoillah
