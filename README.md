@@ -1,2 +1,2 @@
 # ModernPrediction
-Modern Prediksi dan Machine learning merupakan mata kuliah yang bertujuan mempelajari sains data
+Modern Prediksi dan Machine learning merupakan mata kuliah yang bertujuan mempelajari sains data. Pada kuliah ini dikaji topik-topik terkini dalam bidang komputasi statistika terutama tentang implementasi dan pengembangan algoritma di bidang sains data khususnya klasifikasi, klasterisasi dan prediksi secara komputasional, baik secara keilmuan maupun aplikasinya sesuai dengan peramalan / kebutuhan saat ini.
