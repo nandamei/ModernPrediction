@@ -8,3 +8,5 @@
   + Naive Bayes
   + Regresi Logistik
   + KNN
+  + SVM
+  + Jaringan syarat tiruan
