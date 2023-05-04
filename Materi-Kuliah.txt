@@ -6,5 +6,4 @@
   + Kernel K-Means
 3. Supervised Method
   + Naive Bayes
-  + Decision Tree
   + KNN
